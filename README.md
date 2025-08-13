@@ -1,8 +1,8 @@
 <div align="center">
 <h3>IRL-VLA: Training an Vision-Language-Action Policy via Reward World Model</h3>
 
-<a href="https://arxiv.org/abs/2508.06571"><img src='https://img.shields.io/badge/arXiv-IRL-VAL-red' alt='Paper PDF'></a>
-<a href="https://github.com/IRL-VLA/IRL-VLA"><img src='https://img.shields.io/badge/Github-IRL-VAL-blue' alt='Github'></a>
+<a href="https://arxiv.org/abs/2508.06571"><img src='https://img.shields.io/badge/arXiv-IRL--VLA-red' alt='Paper PDF'></a>
+<a href="https://github.com/IRL-VLA/IRL-VLA"><img src='https://img.shields.io/badge/Github-IRL--VLA-blue' alt='Github'></a>
 <!-- <a href="https://ieeexplore.ieee.org/document/10592819"><img src='https://img.shields.io/badge/arXiv-SemanticFormer-blue' alt='Paper PDF'></a>
 <a href="https://www.arxiv.org/pdf/2508.01778"><img src='https://img.shields.io/badge/Datasets-MaplessQCNet-red' alt='Datasets'></a>
 <a href="https://www.arxiv.org/pdf/2508.01778"><img src='https://img.shields.io/badge/Datasets-Sparse4D-green' alt='Datasets'></a> -->
